@@ -1,0 +1,27 @@
+ATENA AGRO — NÃO É PRESSA, É PRESSÃO
+Timeline de montagem (1080x1920, 30 fps, 28,23 s)
+Grade de corte: 130 BPM (1 batida = 0,4615 s) — trilha própria, NÃO é o BPM da música comercial.
+
+TEMPO     TAKE / ORIGEM                         EVENTO
+00:00.00  TAKE 1  RAM parada na fazenda        abertura dourada, fade do preto, "ATENA AGRO"
+00:03.70  TAKE 2  estrada de terra (1,0x)      DROP: flash curto + shake + punch-in, "NÃO É PRESSA."
+00:05.07  TAKE 2  estrada de terra (0,5x)      speed ramp em câmera lenta, "É PRESSÃO."
+00:06.47  TAKE 2  estrada de terra (1,15x)     volta a acelerar
+00:07.40  TAKE 3  Route 68 de frente/baixo     impacto + shake, push-in lento
+00:09.25  TAKE 3                               2º impacto (shake)
+00:11.07  TAKE 4  roda e suspensão             corte seco + punch-in + shake
+00:12.00  TAKE 4  farol                        corte seco + punch-in, brilho no farol
+00:12.93  TAKE 4  grade e emblema              corte seco + punch-in + shake
+00:13.83  TAKE 4  traseira (0,7x)              corte seco + punch-in
+00:14.77  TAKE 5  noite, traseira/lateral      DIA -> NOITE: 2º flash curto + impacto
+00:18.47  TAKE 5  noite (0,5x)                 câmera lenta, groove em meio-tempo
+00:21.23  FINAL   RAM vindo de frente (0,75x)  batida para, subida de tensão
+00:23.08  LOGO    ATENA                        impacto final, logo entra (escala + brilho)
+00:23.63  TEXTO   ROLEPLAY
+00:24.83  TEXTO   EM BREVE
+00:27.33  FIM     fade para o preto (28.23)
+
+PARA USAR A MÚSICA OFICIAL NO TIKTOK/REELS (versão SEM_TRILHA):
+- Alinhe o primeiro "estouro" (drop) da música em 00:03.70.
+- Os outros cortes caem na grade acima; se o BPM da música for diferente,
+  mande o arquivo de áudio que eu re-sincronizo os cortes na batida real.
